@@ -1,0 +1,2 @@
+This is an implementation of Kosaraju Algorithm to compute the size and number of SCC(strong connected components) in a directed graph.
+Test data includes about 800,000 nodes, so it really takes some time to compute, at first it takes about 1 minute, then I optimized it to around 30 seconds(use some simple data structure is a good idea, sometimes), discussed with others on board, well it seems C plus plus is some what more efficient than Java at this time, how could they run the program for 7 min to get the result.... : (
