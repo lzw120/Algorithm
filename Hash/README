@@ -1,0 +1,1 @@
+This is a hash map based function. Here are 9 "target sums", in increasing order: 231552,234756,596873,648219,726312,981237,988331,1277361,1283379. Determine, for each of the 9 target sums x, whether or not x be formed as the sum of two entries in the given array.
